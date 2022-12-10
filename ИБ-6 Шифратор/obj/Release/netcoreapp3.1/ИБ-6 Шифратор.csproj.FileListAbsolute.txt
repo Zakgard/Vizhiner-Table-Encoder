@@ -1,0 +1,14 @@
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\bin\Release\netcoreapp3.1\ИБ-6 Шифратор.exe
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\bin\Release\netcoreapp3.1\ИБ-6 Шифратор.deps.json
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\bin\Release\netcoreapp3.1\ИБ-6 Шифратор.runtimeconfig.json
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\bin\Release\netcoreapp3.1\ИБ-6 Шифратор.runtimeconfig.dev.json
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\bin\Release\netcoreapp3.1\ИБ-6 Шифратор.dll
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\bin\Release\netcoreapp3.1\ИБ-6 Шифратор.pdb
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\obj\Release\netcoreapp3.1\ИБ-6 Шифратор.csproj.AssemblyReference.cache
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\obj\Release\netcoreapp3.1\ИБ-6 Шифратор.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\obj\Release\netcoreapp3.1\ИБ-6 Шифратор.AssemblyInfoInputs.cache
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\obj\Release\netcoreapp3.1\ИБ-6 Шифратор.AssemblyInfo.cs
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\obj\Release\netcoreapp3.1\ИБ-6 Шифратор.csproj.CoreCompileInputs.cache
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\obj\Release\netcoreapp3.1\ИБ-6 Шифратор.dll
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\obj\Release\netcoreapp3.1\ИБ-6 Шифратор.pdb
+E:\VS projects\ИБ-6 Шифратор\ИБ-6 Шифратор\obj\Release\netcoreapp3.1\ИБ-6 Шифратор.genruntimeconfig.cache

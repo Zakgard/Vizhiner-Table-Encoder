@@ -1,0 +1,5 @@
+C:\Users\Zakgard\Desktop\Пирогов_Сафронов_Шифратор\ИБ-6 Шифратор.exe
+C:\Users\Zakgard\Desktop\Пирогов_Сафронов_Шифратор\ИБ-6 Шифратор.dll
+C:\Users\Zakgard\Desktop\Пирогов_Сафронов_Шифратор\ИБ-6 Шифратор.deps.json
+C:\Users\Zakgard\Desktop\Пирогов_Сафронов_Шифратор\ИБ-6 Шифратор.runtimeconfig.json
+C:\Users\Zakgard\Desktop\Пирогов_Сафронов_Шифратор\ИБ-6 Шифратор.pdb
